@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\bin\Debug\net5.0\AssignDAL.deps.json
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\bin\Debug\net5.0\AssignDAL.dll
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\bin\Debug\net5.0\AssignDAL.pdb
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\obj\Debug\net5.0\AssignDAL.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\obj\Debug\net5.0\AssignDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\obj\Debug\net5.0\AssignDAL.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\obj\Debug\net5.0\AssignDAL.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\obj\Debug\net5.0\AssignDAL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\obj\Debug\net5.0\AssignDAL.dll
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\obj\Debug\net5.0\refint\AssignDAL.dll
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\obj\Debug\net5.0\AssignDAL.pdb
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignDAL\obj\Debug\net5.0\ref\AssignDAL.dll

@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\bin\Debug\net5.0\AssignBLL.deps.json
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\bin\Debug\net5.0\AssignBLL.dll
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\bin\Debug\net5.0\AssignBLL.pdb
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\bin\Debug\net5.0\AssignDAL.dll
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\bin\Debug\net5.0\AssignDAL.pdb
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\AssignBLL.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\AssignBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\AssignBLL.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\AssignBLL.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\AssignBLL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\AssignBLL.csproj.CopyComplete
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\AssignBLL.dll
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\refint\AssignBLL.dll
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\AssignBLL.pdb
+C:\Users\lenovo\source\repos\AssignASP2MVCSolution\AssignBLL\obj\Debug\net5.0\ref\AssignBLL.dll
